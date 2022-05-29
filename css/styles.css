@@ -1,0 +1,153 @@
+.top-container{
+  background-color: #DEFCF9;
+  text-align: center;
+  padding-top: 100px;
+  image-orientation: circle;
+}
+
+body{
+  margin: 50px;
+  background-color: #F0F0F0;
+}
+
+h1{
+  font-family:'Grape Nuts', cursive;
+  font-size: 80px;
+  color: #66BFBF;
+}
+
+p{
+  padding-bottom: 50px;
+}
+
+.middle-container{
+  text-align: center;
+  background-color: #DBE2EF;
+}
+
+.myButton{
+  margin-bottom:  50px;
+}
+
+.bottom-container{
+  text-align: center;
+  background-color: #C3BEF0;
+  padding: 50px;
+}
+
+.bottom-cloud{
+  position:relative;
+  bottom:400px;
+}
+
+.skills-1{
+  width: 50%;
+  display: inline-block;
+  margin: 50px auto 50px auto;
+}
+
+.Main-skills{
+  width: 50%;
+  display: inline-block;
+  margin: 50px auto 50px auto;
+}
+
+.top-cloud{
+  position: relative;
+  right:250px;
+  top: 30px;
+}
+
+.mountain{
+  position: relative;
+  left: 50px;
+}
+
+hr{
+  border:dotted white 4px;
+  border-bottom: none;
+  width: 5%;
+}
+
+h2{
+  font-family:sans-serif;
+  font-size: 2.6rem;
+  text-align: center;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.anime{
+  border-radius: 50%;
+  margin-top: 50px;
+}
+
+p{
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  margin:50px auto 0 auto;
+}
+
+h3{
+  color: #11999E;
+  font-size: 2rem;
+}
+
+a{
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+.image{
+  border:500%;
+  margin-right:-200px;
+  width: 35%;;
+  float:left;
+  position: relative;
+  top: 20%;
+}
+
+.image-2{
+  width: 35%;
+  float:right;
+  margin-bottom: 50px;
+}
+
+.skills-1 p {
+  text-align: justify;
+  clear: left;
+  padding-top: 50px;
+}
+
+.Main-skills p {
+  margin-right: 10px;
+  text-align: justify;
+  clear: right;
+}
+
+.myButton {
+	background-color:#fc8d83;
+	border-radius:28px;
+	border:1px solid #d83526;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #b23e35;
+}
+
+.myButton:hover {
+	background-color:#e4685d;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
