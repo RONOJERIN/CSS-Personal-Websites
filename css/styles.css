@@ -80,7 +80,7 @@ h2{
 .anime{
   border-radius: 50%;
   margin-top: 50px;
-width: 10%;
+  width: 20%;
 }
 
 p{
@@ -155,4 +155,5 @@ a:hover{
 .contact-me{
   padding: 50px;
 }
+
 
